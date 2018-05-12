@@ -27,6 +27,8 @@ creator:
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45203#-lykk--n-ritarin-Don-Quijote-de-la-Manchan-el-m-nvaiheet
 gutenberg_issued: '2014-03-24'
 gutenberg_type: Text
 identifiers:
