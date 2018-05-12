@@ -1,0 +1,45 @@
+_repo: -lykk--n-ritarin-Don-Quijote-de-la-Manchan-el-m-nvaiheet_45203
+_version: 0.1.0
+alternative_title: Don Quixote. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A.
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Michel
+    - De Cervantes Saavedra, Miguel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2014-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45203'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picaresque literature'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcsh 'Romances'
+title: Älykkään ritarin Don Quijote de la Manchan elämänvaiheet
+url: http://www.gutenberg.org/ebooks/45203
